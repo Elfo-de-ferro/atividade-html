@@ -1,0 +1,27 @@
+.imagem{
+    width: 300px;
+    margin: 0px;
+    border: 3px solid #ffffff;
+}
+
+.body{
+    background-color: #000000; 
+    color:#ffffff
+}
+
+.tarefa{
+    border: 1px solid #ffffff;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 25px;
+    max-width: 400px;
+}
+
+.icon{
+    width: 50px;
+}
+
+.banner{
+    width: 700px;
+    margin-left:0px ;
+}
